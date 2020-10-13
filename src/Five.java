@@ -5,7 +5,7 @@ public class Five {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter list 1");
         String[] list3 = new String[5];
-        //  list3 = scanner.next();
+        System.out.println();
 
 
     }
