@@ -1,4 +1,4 @@
-public class one {
+public class One {
 
     public static void main(String[] args) {
         //       Scanner scanner=new Scanner(System.in);

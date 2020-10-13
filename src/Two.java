@@ -1,4 +1,4 @@
-public class two {
+public class Two {
     public static void main(String[] args) {
         String userEnter = " Welcome to Java 11";
         upperCase(userEnter);

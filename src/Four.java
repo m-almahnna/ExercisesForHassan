@@ -7,9 +7,9 @@ public class Four {
         int toNumm;
         int positives = 0;
         int negatives = 0;
-        int totl =0; //positives + negatives;
+        int totl = 0; //positives + negatives;
         //   int total = positives && negatives;
-        final int ave = 2 ;
+        final int ave = 2;
         System.out.print("number " + "");
         toNumm = scanner.nextInt();
 
@@ -25,7 +25,7 @@ public class Four {
 
 
             }
-            totl +=toNumm;
+            totl += toNumm;
             System.out.print("number " + "");
             toNumm = scanner.nextInt();
 
@@ -36,7 +36,7 @@ public class Four {
         }
         System.out.print(" \ntotal \nN=" + negatives + "\nP= " + positives);
         System.out.print("");
-        System.out.print("ave " +(ave/positives+negatives));
+        System.out.print("ave " + (ave / positives + negatives));
 
 
     }
