@@ -13,4 +13,8 @@ public class Father {
     public void display() {
         System.out.println(id);
     }
+
+    public Father() {
+
+    }
 }

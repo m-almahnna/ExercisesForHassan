@@ -8,9 +8,10 @@ public class Mother {
 //        System.out.println(son.phone);
 //
 //        System.out.println(son.toString());
-        System.out.println("M");
+
 
         son.display();
-
+        Father father = new Father();
+        System.out.println(father.id);
     }
 }
