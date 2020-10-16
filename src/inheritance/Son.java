@@ -1,6 +1,6 @@
-package Inherotance;
+package inheritance;
 
-public class Son extends Father {
+public class Son extends Father { // i have error here cannot access
     int phone;
 
     public Son(int phone,String fName, String LName) {

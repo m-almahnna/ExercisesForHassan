@@ -1,4 +1,4 @@
-package Inherotance;
+package inheritance;
 
 public class Mother {
     public static void main(String[] args) {

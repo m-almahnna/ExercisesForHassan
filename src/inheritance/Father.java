@@ -1,4 +1,4 @@
-package Inherotance;
+package inheritance;
 
 public class Father {
 
