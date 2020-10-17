@@ -1,10 +1,10 @@
 package inheritance;
 
 public class Son extends Father {
-    int phone;
+    private String phone;
 
-    public Son(int phone, String fName, String LName) {
-        super(fName, LName);
+    public Son(String phone, String fName, String lName) {
+        super(fName, lName);
         this.phone = phone;
     }
 
