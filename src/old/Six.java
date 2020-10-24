@@ -1,3 +1,5 @@
+package old;
+
 public class Six {
     public static void main(String[] args) {
         int num =1;

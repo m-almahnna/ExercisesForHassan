@@ -1,3 +1,5 @@
+package old;
+
 public class Ch7 {
     public  static void walk(int start , int... nums){
 

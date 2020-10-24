@@ -1,3 +1,5 @@
+package old;
+
 public class Agr {
     public static void run(int...nums){
         System.out.println(nums[2]);

@@ -1,3 +1,5 @@
+package old;
+
 public class Rookie {
     private String name = "Static class";
 
