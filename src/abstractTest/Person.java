@@ -1,7 +1,7 @@
 package abstractTest;
 
 abstract class Person {
-
+    
     public Person() {
     }
 

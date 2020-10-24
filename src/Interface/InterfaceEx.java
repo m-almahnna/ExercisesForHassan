@@ -11,4 +11,15 @@ public class InterfaceEx implements Human {
         System.out.println(admin);
         System.out.println(password);
     }
+
+
+    @Override
+    public void username1() {
+
+    }
+
+    @Override
+    public void username2() {
+
+    }
 }
